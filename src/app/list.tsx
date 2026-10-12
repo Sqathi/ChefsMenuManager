@@ -11,7 +11,7 @@ export default function MenuListScreen() {
   description: string;
   course: string;
   price: number;
-}[] = [];
+}[] = [];  
 
   return (
     <View style={styles.container}>
